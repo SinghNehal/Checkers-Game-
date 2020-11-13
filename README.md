@@ -5,7 +5,6 @@ All basic rules of classic checkers game , plus, If a player quits then the oppo
 automatically win.
 Else if there are no pieces left / there are no
 legal moves left for a player, opponent wins.
-## Board is 
 ## 1. Human v/s Human
 Input Format :- [from row number][from coln number] [to row number][to coln number]
 example: 3a 4b
